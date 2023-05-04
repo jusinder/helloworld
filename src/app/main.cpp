@@ -6,7 +6,7 @@
 int main(int argc,char * argv[])
 {
     QApplication app(argc,argv);
-    qDebug() << "hello bitch";
+    qDebug() << "hello bitch1";
 
     qDebug() << funAdd(1,4);
 
